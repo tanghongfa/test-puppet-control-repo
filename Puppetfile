@@ -16,5 +16,5 @@ mod 'notifyme',
 mod 'dvn2',
    :git => 'https://github.com/tanghongfa/test-puppet-module-repo.git'
 
-mod 'dimitisLinkManager',
-	:git => 'https://github.com/tanghongfa/test-puppet-module-repo.git'   
+#mod 'dimitisLinkManager',
+#	:git => 'https://github.com/tanghongfa/test-puppet-module-repo.git'   
