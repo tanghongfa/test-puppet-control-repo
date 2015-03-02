@@ -6,9 +6,9 @@ mod "puppetlabs/ntp"
 
 # Modules from Github using various references
 mod 'profiles',
-  :git => 'git://github.com/glarizza/puppet-profiles',
-  :ref => '3611ae4253ff01762f9bda1d93620edf8f9a3b22'
+  :git => 'https://github.com/glarizza/puppet-profiles.git',
+#  :ref => '3611ae4253ff01762f9bda1d93620edf8f9a3b22'
 
 mod 'notifyme',
-  :git => 'git://github.com/glarizza/puppet-notifyme',
-  :ref => '50c01703b2e3e352520a9a2271ea4947fe17a51f'
+  :git => 'https://github.com/glarizza/puppet-notifyme.git',
+#  :ref => '50c01703b2e3e352520a9a2271ea4947fe17a51f'
