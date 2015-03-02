@@ -12,3 +12,9 @@ mod 'profiles',
 mod 'notifyme',
   :git => 'https://github.com/glarizza/puppet-notifyme.git'
 #  :ref => '50c01703b2e3e352520a9a2271ea4947fe17a51f'
+
+mod 'dvn2',
+   :git => 'https://github.com/tanghongfa/test-puppet-module-repo.git'
+
+mod 'dimitisLinkManager',
+	:git => 'https://github.com/tanghongfa/test-puppet-module-repo.git'   
