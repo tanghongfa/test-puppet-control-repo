@@ -43,4 +43,5 @@ node default {
   # Example:
   #   class { 'my_class': }
   include profiles::notify_a_message
+  include dvn2::dimitis
 }
